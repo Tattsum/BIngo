@@ -4,7 +4,7 @@
 以下のような操作を行うことで使用可能
 ```
 $ git clone  https://github.com/Tattsum/BIngo.git
-$ cd BIngo
+$ cd Bingo
 
 $ ruby sample.rb
 
